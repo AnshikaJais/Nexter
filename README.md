@@ -10,5 +10,5 @@ Install the dependencies
   npm start
 ```
 
-## Tech Stack Uses :
+## Tech Stack Used :
 HTML , CSS , SCSS
